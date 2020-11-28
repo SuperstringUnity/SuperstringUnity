@@ -2,3 +2,5 @@
 
 官网：https://superstringu.com
 邮箱：Contact@superstringu.com
+
+感谢Compound Labs的贡献！
